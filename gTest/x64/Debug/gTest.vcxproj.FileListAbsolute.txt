@@ -1,0 +1,2 @@
+C:\Users\$A$A\source\repos\list\gTest\x64\Debug\gTest.vcxproj.CopyComplete
+C:\Users\$A$A\source\repos\mp2-lab4-polinoms\gTest\x64\Debug\gTest.vcxproj.CopyComplete
